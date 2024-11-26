@@ -9,3 +9,25 @@ html,
 body {
     font-family: "Montserrat", serif;
 }
+
+h1 {
+    font-style: 2.5rem;
+}
+
+h4 {
+    font-size: 1.5rem;
+}
+
+h6 {
+    font-size: 1rem;
+}
+
+p {
+    font-size: 1rem;
+    margin: 16px 0;
+    line-height: 1.7em;
+}
+
+a {
+    text-decoration: none;
+}
