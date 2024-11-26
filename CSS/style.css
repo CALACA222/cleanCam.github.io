@@ -58,6 +58,20 @@ a {
 .large {
     font-size: 1.25rem;
 }
+
+.btn {
+    display: inline-block;
+    font-size: 15px;
+    padding: 12px 23px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    border-radius: 50px;
+}
+
+.btn-green {
+    background: #9ee1da;
+    color: #fff;
+}
 /*Header*/
 #mainheader {
 background: url('../imagenes/camara.jpeg');
@@ -100,3 +114,21 @@ height: 100vh;
     padding: 20px;
     text-align: center;
 }
+
+/*Showcase*/
+
+#showcase {
+    float: right;
+    width: 50%;
+    padding: 120px 10px 10px 10px;
+}
+
+#showcase h6 {
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+
+#showcase p {
+    padding: 20px 0;
+}
+
