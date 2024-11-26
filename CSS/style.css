@@ -16,6 +16,11 @@ h1 {
 
 h4 {
     font-size: 1.5rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 300;
+    padding-bottom: 50px;
+
 }
 
 h6 {
@@ -30,4 +35,26 @@ p {
 
 a {
     text-decoration: none;
+}
+
+/*UtiLity Classes*/
+
+.container {
+    margin: auto;
+    max-width: 1300px;
+    overflow: auto;
+    padding: 0 20px;
+}
+
+.display-1 {
+    font-size: 72px;
+    font-weight: 200;
+}
+
+.bold {
+    font-weight: 200;
+}
+
+.large {
+    font-size: 1.25rem;
 }
