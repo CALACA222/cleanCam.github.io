@@ -58,3 +58,15 @@ a {
 .large {
     font-size: 1.25rem;
 }
+/*Header*/
+#mainheader {
+background: url('../imagenes/camara.jpeg');
+background-repeat: no-repeat;
+background-position: left;
+background-size: 50% 100%; 
+height: 100vh;
+}
+
+#mainheader .logo {
+    text-transform: uppercase;
+}
