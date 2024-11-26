@@ -190,3 +190,15 @@ height: 170vh;
     width: 40%;
     margin: 0 auto;
 }
+
+#contact button {
+    width: 100%;
+}
+
+/*Footer*/
+
+#mainfooter {
+    background: #fef9fb;
+    text-align: center;
+    padding: 30px;
+}
